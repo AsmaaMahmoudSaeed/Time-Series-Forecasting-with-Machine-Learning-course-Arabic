@@ -22,3 +22,11 @@
 * Book 3:Introduction to Time Series Forecasting with Python How to Prepare Data and Develop Models to Predict the  Future by Jason Brownlee
 * Book 4:Practical Time Series Analysis_ Prediction with Statistics and Machine Learning
 * Book 5:deep learning for time series forecasting
+## Videos 
+* Video 0: https://www.youtube.com/watch?v=X4g4eVR-EYQ | introduction | مقدمة 
+* Video 1: https://www.youtube.com/watch?v=sFCbfT21sPw&t=5s | المفاهيم الأساسية
+* Video 2:
+* Video 3:
+* Video 5:
+
+
