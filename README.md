@@ -28,6 +28,6 @@
 * Video 2: https://www.youtube.com/watch?v=4hYVZdE7pi0&t=144s | Smoothing Techniques
 * Video 3: https://www.youtube.com/watch?v=FYqgpi6Qn8g&t=281s | Lab 1:Reading TS and basic operations | عملي 1
 * Video 4: https://www.youtube.com/watch?v=kOZJDWwT5AY&t=1404s | Lab 2:Plotting TS and Moving Averages | عملي 2
-* Video 5: https://www.youtube.com/watch?v=RcKsUg_5Zoo|Decomposition,,Autocorrelation,Partial Autocorrelation 
+* Video 5: https://www.youtube.com/watch?v=RcKsUg_5Zoo | Decomposition,Autocorrelation,Partial Autocorrelation 
 
 
